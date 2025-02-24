@@ -49,9 +49,13 @@ body {
 .article p {
     font-size: 1.2em;
 }
-.article table ul li a {
+.article  ul li{
+  list-style-type: none;
+  line-height: 2;
+}
+.article  ul li a{
   text-decoration: none;
-  color: blue;
+  color: #fff;
 }
 .posting {
     text-align: center;
@@ -102,7 +106,7 @@ body {
     margin: 15px;
 }
 .read-more-link {
-  text-decoration: none;
+  text-decoration:none;
   color: #2e2e2e;
 }
 .read-more {
