@@ -70,6 +70,9 @@ body {
     font-size: 1.2em;
     text-align: left;
 }
+.centertext{
+  text-align: center;
+}
 .featured-posts {
     padding: 40px 20px;
     max-width: 1200px;
