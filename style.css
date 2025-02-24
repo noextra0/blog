@@ -64,6 +64,7 @@ body {
 }
 .posting p {
     font-size: 1.2em;
+    text-align: left;
 }
 .featured-posts {
     padding: 40px 20px;
